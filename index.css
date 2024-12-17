@@ -1,0 +1,17 @@
+.btn{
+    margin: 10px;
+    height:  40px;
+    width: 60px;
+    padding: 10px;
+    
+}
+
+.del{
+    background-color: red;
+    color:white;
+}
+
+.up{
+    background-color: yellow;
+    color: black;
+}
